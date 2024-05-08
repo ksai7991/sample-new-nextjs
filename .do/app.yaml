@@ -10,7 +10,7 @@ ingress:
     match:
       path:
         prefix: /
-name: lionfish-app-nextjs
+name: lionfish-app-nextjs1
 region: blr
 services:
 - build_command: npm run build
